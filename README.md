@@ -63,8 +63,8 @@ The interface scales mathematically (`min(w, h)`) to fit any screen aspect ratio
 ## Mobile & Result
 <table>
 <tr>
-  <th>Mobile Controls</th>
-  <th>Success / Fail State</th>
+  <th>Success</th>
+  <th>Fail State</th>
 </tr>
 <tr>
   <td><img src="assets/Success.png" width="300"></td>
